@@ -16,7 +16,10 @@ intento un parrafo. Bla bla. Bla bla. Bla bla. Bla bla. Bla bla. Bla bla. Bla bl
 ## Receta salsa pesto
 
 1. aceite de oliva
-2. albahaca
-3. sal
+1. albahaca
+2. piñones
+3. parmesano
+4. ajo
+1. sal
 
 ## cap. 4
